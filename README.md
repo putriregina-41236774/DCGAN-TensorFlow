@@ -44,14 +44,3 @@ Model DCGAN terdiri dari dua komponen utama:
     * **Beta 1:** 0.5 (Beta 1 rendah umum digunakan dalam DCGAN).
 * **Loss Function:** `BinaryCrossentropy(from_logits=True)`.
 
-## 📦 Cara Menjalankan Kode
-
-1.  **Kloning Repositori:**
-    ```bash
-    git clone [[Link Repositori Anda](https://github.com/putriregina-41236774/DCGAN-TensorFlow/blob/main/Model_DCGAN%20putri%20regina.ipynb)]
-    ```
-2.  **Instal Dependensi:**
-    ```bash
-    pip install tensorflow keras numpy matplotlib
-    ```
-3.  **Jalankan Notebook:** Buka dan jalankan *notebook* `Model_DCGAN putri regina` menggunakan Jupyter atau Google Colab.
