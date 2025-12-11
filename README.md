@@ -4,9 +4,7 @@ Proyek ini mengimplementasikan **Deep Convolutional Generative Adversarial Netwo
 
 DCGAN adalah tipe *Generative Adversarial Network* yang memanfaatkan arsitektur *Convolutional* pada *Generator* dan *Discriminator* untuk menghasilkan citra sintetis yang berkualitas tinggi dari *latent vector* acak.
 
-## 👤 Informasi Penulis (Opsional)
-
-Jika Anda ingin mencantumkan detail pribadi:
+## 👤 Informasi Penulis 
 
 * **Nama:** [Putri Regina]
 * **NIM:** [41236774]
