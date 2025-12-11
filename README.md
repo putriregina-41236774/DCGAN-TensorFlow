@@ -44,3 +44,7 @@ Model DCGAN terdiri dari dua komponen utama:
     * **Beta 1:** 0.5 (Beta 1 rendah umum digunakan dalam DCGAN).
 * **Loss Function:** `BinaryCrossentropy(from_logits=True)`.
 
+**bukti hasil**
+<img width="794" height="327" alt="image" src="https://github.com/user-attachments/assets/87a3ce8d-66de-4556-920a-ee8cccf58311" />
+
+
