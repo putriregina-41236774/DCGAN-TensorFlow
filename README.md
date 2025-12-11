@@ -48,7 +48,7 @@ Model DCGAN terdiri dari dua komponen utama:
 
 1.  **Kloning Repositori:**
     ```bash
-    git clone [Link Repositori Anda]
+    git clone [[Link Repositori Anda](https://github.com/putriregina-41236774/DCGAN-TensorFlow/blob/main/Model_DCGAN%20putri%20regina.ipynb)]
     ```
 2.  **Instal Dependensi:**
     ```bash
